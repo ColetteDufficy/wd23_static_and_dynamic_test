@@ -24,4 +24,4 @@ def cards_total(self, cards):
   total # total = 0
   for card in cards:
     total += card.value
-    return "You have a total of" + total #return "You have a total of " + str(total) .......AND indent thid line to the left
+    return "You have a total of" + total #return "You have a total of " + str(total) .......AND indent this line to the left so it has the same starting point as the FOR statement
